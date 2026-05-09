@@ -149,6 +149,34 @@
   .visible-links {
     overflow: visible !important;
   }
+  
+  /* hamburger menu: show children inline, indented */
+  .hidden-links .has-dropdown .dropdown-menu {
+    display: block !important;
+    position: static;
+    background: none;
+    border: none;
+    padding: 0;
+    width: fit-content;
+  }
+
+  .hidden-links .has-dropdown .dropdown-menu li a {
+    padding-left: 2.5em;
+  }
+  
+  .hidden-links .dropdown-toggle {
+    padding-left: 7px;
+  }
+
+  /* hide the arrow in hamburger mode */
+  .hidden-links .dropdown-arrow {
+    display: none;
+  }
+  
+  .hidden-links .dropdown-toggle:hover {
+    color: inherit;
+  }
+  
 </style>
 
 <script>
