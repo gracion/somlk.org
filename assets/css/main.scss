@@ -1,0 +1,9 @@
+---
+# Only the main sidebar needs to be aware of what version of the theme is running
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+@import "custom";

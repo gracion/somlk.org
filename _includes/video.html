@@ -1,0 +1,9 @@
+{% if include.provider == "youtube" %}
+<div class="responsive-video">
+	<iframe src="https://www.youtube.com/embed/{{ include.id }}" allowfullscreen></iframe>
+</div>
+{% elsif include.provider == "vimeo" %}
+<div class="responsive-video">
+	<iframe src="https://player.vimeo.com/video/{{ include.id }}" allowfullscreen></iframe>
+</div>
+{% endif %}
