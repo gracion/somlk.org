@@ -1,0 +1,17 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Videos"
+    url: /videos/
+  - title: "Past Events"
+    children:
+      - title: "Ashland"
+        url: /past-events/ashland/
+      - title: "Medford"
+        url: /past-events/medford/
+  - title: "Grants Pass"
+    url: /grants-pass/
+  - title: "History"
+    url: /history/
+  - title: "About"
+    url: /about/

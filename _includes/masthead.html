@@ -1,0 +1,180 @@
+{% assign locale = include.locale | default: site.locale %}
+{% capture logo_path %}{{ site.logo }}{% endcapture %}
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
+        {% unless logo_path == empty %}
+          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
+        {% endunless %}
+        <a class="site-title" href="{{ '/' | relative_url }}">
+          {{ site.masthead_title | default: site.title | escape_once | strip }}
+          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>{% endif %}
+        </a>
+        <ul class="visible-links">
+          {%- for link in site.data.navigation.main -%}
+            {% if link.children %}
+              <li class="masthead__menu-item has-dropdown">
+                <button class="dropdown-toggle" aria-expanded="false">
+                  {{ link.title }}<span class="dropdown-arrow">▾</span>
+                </button>
+                <ul class="dropdown-menu">
+                  {% for child in link.children %}
+                    <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% else %}
+              <li class="masthead__menu-item">
+                
+                  <a href="{{ link.url | relative_url }}"
+                  {% if link.description %} title="{{ link.description }}"{% endif %}
+                  {% if link.target %} target="{{ link.target }}"{% endif %}
+                >{{ link.title }}</a>
+              </li>
+            {% endif %}
+          {%- endfor -%}
+        </ul>
+        {% if site.search == true %}
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">{{ site.data.ui-text[locale].search_label | default: "Toggle search" }}</span>
+          <i class="fas fa-search"></i>
+        </button>
+        {% endif %}
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">{{ site.data.ui-text[locale].menu_label | default: "Toggle menu" }}</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+<style>
+  .has-dropdown { position: relative; }
+
+  .dropdown-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: inherit;
+    color: inherit;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    gap: 0.25em;
+  }
+
+  .dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: var(--global-bg-color, #1a1a1a);
+    border: 1px solid var(--border-color, #444);
+    list-style: none;
+    margin: 0;
+    padding: 0.25em 0;
+    /*min-width: 150px; */
+    z-index: 100;
+    width: fit-content;
+  }
+
+  .dropdown-menu li a {
+    display: block;
+    padding: 0.4em 1em;
+    white-space: nowrap;
+    position: relative:
+  }
+  
+  .greedy-nav .visible-links a {
+    margin: 0 0.5rem;
+  }
+  
+  .greedy-nav .visible-links .dropdown-menu a {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 1em;
+    margin-right: 1em;
+    display: inline-block;
+  }
+  
+  .greedy-nav .visible-links .dropdown-menu a:before {
+    bottom: 9px;
+  }
+  
+  .dropdown-menu li a:hover {
+    background: none;
+    color: #bbbbbb;
+  }
+
+/* vertically align the button with other nav items */
+  .has-dropdown {
+    display: flex;
+    align-items: center;
+  }
+
+  .dropdown-toggle {
+    font-family: inherit;
+    font-weight: inherit;
+    letter-spacing: inherit;
+    line-height: inherit;
+    margin: 0 0.5rem;
+  }
+
+  /* match teal color on Past Events hover */
+  .dropdown-toggle:hover {
+    color: #bbbbbb;
+  }
+
+  /* bigger arrow */
+  .dropdown-arrow {
+    font-size: 1.8em;
+    vertical-align: middle;
+    line-height: 0;
+    position: relative;
+    top: -3px;
+  }
+  
+  /* dropdown matches main bg */
+  .dropdown-menu {
+    background: #252a34;
+  }
+  
+  .has-dropdown.open .dropdown-menu { display: block; !important; }
+  
+  /* override so the dropdown menu appears */
+  .visible-links {
+    overflow: visible !important;
+  }
+</style>
+
+<script>
+	document.querySelectorAll('.has-dropdown .dropdown-toggle').forEach(btn => {
+		btn.addEventListener('click', e => {
+		  e.stopPropagation();  // add this line
+		  const item = btn.closest('.has-dropdown');
+		  const isOpen = item.classList.contains('open');
+		  document.querySelectorAll('.has-dropdown').forEach(el => {
+			el.classList.remove('open');
+			el.querySelector('.dropdown-toggle').setAttribute('aria-expanded', 'false');
+		  });
+		  if (!isOpen) {
+			item.classList.add('open');
+			btn.setAttribute('aria-expanded', 'true');
+		  }
+		});
+	  });
+  
+  // close when clicking outside
+  document.addEventListener('click', e => {
+    if (!e.target.closest('.has-dropdown')) {
+      document.querySelectorAll('.has-dropdown').forEach(el => {
+        el.classList.remove('open');
+        el.querySelector('.dropdown-toggle').setAttribute('aria-expanded', 'false');
+      });
+    }
+  });
+</script>
