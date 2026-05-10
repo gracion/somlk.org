@@ -56,7 +56,7 @@ After the celebration, march to downtown Plaza for the playing of Dr. King's "I 
 
 ---
 
-[Grants Pass MLK Jr. Day Celebration](/grants-pass/)
+[Grants Pass MLK Jr. Day Celebration]({{ site.baseurl }}/grants-pass/)
 
 ---
 
@@ -84,19 +84,19 @@ Explore the meaning of MLK Day through the eyes of our own community, created by
 
 {% include video.html id="CEnifgJkHVk" provider="youtube" %}
 
-[More Video and Info](/videos/) &bull; [BASE YouTube Channel](https://www.youtube.com/channel/UCW4qCfQO0I9Yn1mcGYXw5rg){:target="_blank"}
+[More Video and Info]({{ site.baseurl }}/videos/) &bull; [BASE YouTube Channel](https://www.youtube.com/channel/UCW4qCfQO0I9Yn1mcGYXw5rg){:target="_blank"}
 
 ---
 
 [Dr. King's 1961 message for Oregonians](https://www.oregonlive.com/history/2021/01/martin-luther-king-jr-challenged-oregonians-60-years-ago-to-find-a-way-to-live-together-or-perish-as-fools.html){:target="_blank"}
 
-[Dr. King on Expediency vs. Right](/quote-priorities/)
+[Dr. King on Expediency vs. Right]({{ site.baseurl }}/quote-priorities/)
 
 ---
 
 **Read Dr. King's book *Why We Can't Wait***
 
-Get it from your local bookstore or [Jackson County Library Services](https://catalog.jcls.org/GroupedWork/614a3b8a-ddd8-68a7-1dfb-1f0024e24354-eng/Home){:target="_blank"}.
+Get it from your local bookstore or [Jackson County Library Services](https://catalog.jcls.org/){:target="_blank"}.
 
 ---
 

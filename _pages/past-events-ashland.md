@@ -4,17 +4,17 @@ layout: single
 permalink: /past-events/ashland/
 ---
 
-For the 2021 and 2022 video events, see the [Videos page](/videos/).
+For the 2021 and 2022 video events, see the [Videos page]({{ site.baseurl }}/videos/).
 
 ### 2020 Ashland MLK Celebration
 
-[![In the Spirit of Freedom Summer — 2020 MLK celebration poster]({{ site.baseurl }}/assets/files/mlk-2020-front-v2-01.png)]({{ site.baseurl }}/assets/files/mlk-2020-front-v2-01.png)
+[![In the Spirit of Freedom Summer — 2020 MLK celebration poster]({{ site.baseurl }}/assets/images/mlk-2020-front-v2-01.png)]({{ site.baseurl }}/assets/images/mlk-2020-front-v2-01.png)
 
 {% include video.html id="386358758" provider="vimeo" %}
 
 *Our entire program, starting with the pre-show performance by the Bishop Mayfield band, and a history of Freedom Summer, before the main program, featuring Keynote Speaker Nataki Garrett, OSF Artistic Director.*
 
-See more of Dr. King and our shared history on the [History page](/history/).
+See more of Dr. King and our shared history on the [History page]({{ site.baseurl }}/history/).
 
 The 32nd annual Ashland Martin Luther King Jr. Holiday Celebration was held on Monday, January 20th at the Historic Ashland Armory. Overflow attendees watched a simulcast live stream at the Varsity Theatre.
 
@@ -27,7 +27,7 @@ The celebration is FREE and open to the public. Non-Perishable Food Donations fo
 > him [or them] it is right…"
 > — Dr. Martin Luther King, Jr.
 >
-> [Read the full quotation in context →](/quote/)
+> [Read the full quotation in context →]({{ site.baseurl }}/quote/)
 
 [Facebook](https://www.facebook.com/Ashland-Martin-Luther-King-Jr-Holiday-Celebration-139540922765640/){:target="_blank"} &bull;
 [Twitter/X](https://twitter.com/AshlandMLKDay){:target="_blank"} &bull;

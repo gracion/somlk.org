@@ -16,7 +16,7 @@ Watch on: [Facebook](https://www.facebook.com/SOMLKDay/){:target="_blank"} or [Y
 
 **Book recommendation:** *Where Do We Go From Here: Chaos or Community?* by Dr. King.
 
-Get it from your local bookstore, [Jackson County Library](https://catalog.jcls.org/Record/103556){:target="_blank"}, [Apple Books](https://books.apple.com/us/book/where-do-we-go-from-here/id476023461){:target="_blank"}, [Kindle](https://smile.amazon.com/dp/B009U9S6EO/){:target="_blank"}, or [Nook](https://www.barnesandnoble.com/w/where-do-we-go-from-here-martin-luther-king-jr/1112547782){:target="_blank"}.
+Get it from your local bookstore, [Jackson County Library](https://catalog.jcls.org/){:target="_blank"}, [Apple Books](https://books.apple.com/us/book/where-do-we-go-from-here/id476023461){:target="_blank"}, [Kindle](https://smile.amazon.com/dp/B009U9S6EO/){:target="_blank"}, or [Nook](https://www.barnesandnoble.com/w/where-do-we-go-from-here-martin-luther-king-jr/1112547782){:target="_blank"}.
 
 ISBN: 9780807000670
 
@@ -35,4 +35,4 @@ ISBN: 9780807000670
 
 ---
 
-[Watch Previous MLK Events](/past-events/ashland/)
+[Watch Previous MLK Events]({{ site.baseurl }}/past-events/ashland/)

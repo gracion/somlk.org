@@ -4,7 +4,7 @@ layout: single
 permalink: /past-events/medford/
 ---
 
-Previous Medford and Rogue Valley events. See also our [Videos page](/videos/).
+Previous Medford and Rogue Valley events. See also our [Videos page]({{ site.baseurl }}/videos/).
 
 ### 2020 Medford Celebration
 
