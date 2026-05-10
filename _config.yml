@@ -3,7 +3,7 @@ email: ""
 description: >-
   Annual Martin Luther King Jr. celebration events
   in Southern Oregon.
-baseurl: "/somlk.org"
+baseurl: ""
 url: "https://somlk.org"
 
 remote_theme: mmistakes/minimal-mistakes@4.26.2
