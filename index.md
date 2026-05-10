@@ -1,7 +1,6 @@
 ---
 title: "Martin Luther King, Jr. Day Celebrations"
-layout: home
-permalink: /
+layout: single
 excerpt: "Southern Oregon celebrates Martin Luther King, Jr. Day each year with events in Ashland and Grants Pass."
 header:
   overlay_color: "#000"

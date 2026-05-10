@@ -8,7 +8,7 @@ Previous Medford and Rogue Valley events. See also our [Videos page](/videos/).
 
 ### 2020 Medford Celebration
 
-[![Medford MLK celebration collage](https://www.somlk.org/uploads/9/5/8/8/95881824/medford-mlk-collage.jpg)](https://www.somlk.org/uploads/9/5/8/8/95881824/medford-mlk-collage.jpg)
+[![Medford MLK celebration collage]({{ site.baseurl }}/assets/images/medford-mlk-collage.jpg)]({{ site.baseurl }}/assets/images/medford-mlk-collage.jpg)
 
 **Sunday, January 19, 2020, 2:00–3:30 PM**
 Medford School District Auditorium

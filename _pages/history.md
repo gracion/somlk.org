@@ -7,15 +7,15 @@ permalink: /history/
 Take a moment to go back in time, experience history, and hear Dr. King in his own words.
 
 **Contents:**
-- [1957: "Segregation and the South" documentary](#1957)
-- [1962: Dr. King on the Emancipation Proclamation](#1962)
-- [1965: Dr. King on "Meet the Press"](#1965)
-- [1967: "The Other America" speech](#1967)
+- [1957: "Segregation and the South" documentary](#fifty-seven)
+- [1962: Dr. King on the Emancipation Proclamation](#sixty-two)
+- [1965: Dr. King on "Meet the Press"](#sixty-five)
+- [1967: "The Other America" speech](#sixty-seven)
 - [1956: How did Coretta Cope?](#coretta)
 
 ---
 
-### 1957 — "Segregation and the South" {#1957}
+### 1957 — "Segregation and the South" {#fifty-seven}
 
 A documentary aired on ABC.
 
@@ -23,13 +23,13 @@ A documentary aired on ABC.
 
 ---
 
-### 1962 — Speech on the Centennial of the Emancipation Proclamation {#1962}
+### 1962 — Speech on the Centennial of the Emancipation Proclamation {#sixty-two}
 
 {% include video.html id="N0Jzqiqwo5A" provider="youtube" %}
 
 ---
 
-### 1965 — Dr. King on "Meet the Press" {#1965}
+### 1965 — Dr. King on "Meet the Press" {#sixty-five}
 
 One month after Minister Malcolm X is assassinated, Dr. King was on Meet the Press. This interview occurs in the midst of the 1965 march the movie *Selma* is patterned after.
 
@@ -37,7 +37,7 @@ One month after Minister Malcolm X is assassinated, Dr. King was on Meet the Pre
 
 ---
 
-### 1967 — "The Other America" — Speech at Stanford University {#1967}
+### 1967 — "The Other America" — Speech at Stanford University {#sixty-seven}
 
 {% include video.html id="dOWDtDUKz-U" provider="youtube" %}
 

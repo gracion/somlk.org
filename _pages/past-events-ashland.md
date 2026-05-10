@@ -8,7 +8,7 @@ For the 2021 and 2022 video events, see the [Videos page](/videos/).
 
 ### 2020 Ashland MLK Celebration
 
-[![In the Spirit of Freedom Summer — 2020 MLK celebration poster](https://www.somlk.org/uploads/9/5/8/8/95881824/editor/mlk-2020-front-v2-01.png)](https://www.somlk.org/uploads/9/5/8/8/95881824/editor/mlk-2020-front-v2-01.png)
+[![In the Spirit of Freedom Summer — 2020 MLK celebration poster]({{ site.baseurl }}/assets/files/mlk-2020-front-v2-01.png)]({{ site.baseurl }}/assets/files/mlk-2020-front-v2-01.png)
 
 {% include video.html id="386358758" provider="vimeo" %}
 
@@ -93,10 +93,10 @@ The celebration is FREE and open to the public. Non-Perishable Food Donations fo
 
 ### Celebration Reports
 
-- [2008 Celebration Report](https://www.somlk.org/uploads/9/5/8/8/95881824/2008_mlk_report.pdf){:target="_blank"}
-- [2009 Celebration Report](https://www.somlk.org/uploads/9/5/8/8/95881824/2009_mlk_report.pdf){:target="_blank"}
-- [2010 Celebration Report](https://www.somlk.org/uploads/9/5/8/8/95881824/2010_mlk_report.pdf){:target="_blank"}
-- [2011 Celebration Report](https://www.somlk.org/uploads/9/5/8/8/95881824/2011_ashland_martin_luther_king_celebration_report.pdf){:target="_blank"}
-- [2012 Celebration Report](https://www.somlk.org/uploads/9/5/8/8/95881824/2012_mlk_report.pdf){:target="_blank"}
-- [2013 Celebration Report](https://www.somlk.org/uploads/9/5/8/8/95881824/2013_mlk_report.pdf){:target="_blank"}
-- [2014 Celebration Report](https://www.somlk.org/uploads/9/5/8/8/95881824/2014_report.pdf){:target="_blank"}
+- [2008 Celebration Report]({{ site.baseurl }}/assets/files/2008_mlk_report.pdf){:target="_blank"}
+- [2009 Celebration Report]({{ site.baseurl }}/assets/files/2009_mlk_report.pdf){:target="_blank"}
+- [2010 Celebration Report]({{ site.baseurl }}/assets/files/2010_mlk_report.pdf){:target="_blank"}
+- [2011 Celebration Report]({{ site.baseurl }}/assets/files/2011_ashland_martin_luther_king_celebration_report.pdf){:target="_blank"}
+- [2012 Celebration Report]({{ site.baseurl }}/assets/files/2012_mlk_report.pdf){:target="_blank"}
+- [2013 Celebration Report]({{ site.baseurl }}/assets/files/2013_mlk_report.pdf){:target="_blank"}
+- [2014 Celebration Report]({{ site.baseurl }}/assets/files/2014_report.pdf){:target="_blank"}
