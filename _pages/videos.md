@@ -6,13 +6,15 @@ permalink: /videos/
 
 ### 2022
 
-[![Where Do We Go From Here film poster]({{ site.baseurl }}/assets/images/movieposterthumbnail_orig.jpg){:style="max-width:300px;float:right;margin-left:1em;"}](https://youtu.be/CEnifgJkHVk)
+[![Where Do We Go From Here film poster]({{ site.baseurl }}/assets/images/movieposterthumbnail_orig.jpg){:style="max-width:600px;float:right;margin-left:1em;"}](https://youtu.be/CEnifgJkHVk)
 
 A new film from BASE Southern Oregon premiered with a live chat discussion in January 2022. In the film, the children of BASE's AfroScoutz program explore issues identified by Dr. King in "Where Do We Go From Here," including education, economics, civics, and policing. Together, the leaders of today and tomorrow discuss how we can apply Dr. King's wisdom to current issues in the Rogue Valley and beyond.
 
 Watch on: [Facebook](https://www.facebook.com/SOMLKDay/){:target="_blank"} or [YouTube](https://youtu.be/CEnifgJkHVk){:target="_blank"}
 
 <div style="clear:both;"></div>
+
+---
 
 **Book recommendation:** *Where Do We Go From Here: Chaos or Community?* by Dr. King.
 

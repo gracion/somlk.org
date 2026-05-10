@@ -8,8 +8,6 @@ For the 2021 and 2022 video events, see the [Videos page]({{ site.baseurl }}/vid
 
 ### 2020 Ashland MLK Celebration
 
-[![In the Spirit of Freedom Summer — 2020 MLK celebration poster]({{ site.baseurl }}/assets/images/mlk-2020-front-v2-01.png)]({{ site.baseurl }}/assets/images/mlk-2020-front-v2-01.png)
-
 {% include video.html id="386358758" provider="vimeo" %}
 
 *Our entire program, starting with the pre-show performance by the Bishop Mayfield band, and a history of Freedom Summer, before the main program, featuring Keynote Speaker Nataki Garrett, OSF Artistic Director.*
