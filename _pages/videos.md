@@ -2,6 +2,8 @@
 title: "Video Archive"
 layout: single
 permalink: /videos/
+redirect_from:
+  - /videos.html
 ---
 
 ### 2022

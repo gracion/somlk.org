@@ -2,6 +2,8 @@
 title: "Learn From History"
 layout: single
 permalink: /history/
+redirect_from:
+  - /history.html
 ---
 
 Take a moment to go back in time, experience history, and hear Dr. King in his own words.

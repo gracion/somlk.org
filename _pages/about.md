@@ -2,6 +2,8 @@
 title: "About Southern Oregon MLK"
 layout: single
 permalink: /about/
+redirect_from:
+  - /about.html
 ---
 
 ### Connecting Community

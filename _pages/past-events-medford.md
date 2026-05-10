@@ -2,6 +2,8 @@
 title: "Medford MLK Celebration"
 layout: single
 permalink: /past-events/medford/
+redirect_from:
+  - /medford.html
 ---
 
 Previous Medford and Rogue Valley events. See also our [Videos page]({{ site.baseurl }}/videos/).

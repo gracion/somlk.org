@@ -10,6 +10,7 @@ remote_theme: mmistakes/minimal-mistakes@4.26.2
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-redirect-from
 
 minimal_mistakes_skin: "dark"
 

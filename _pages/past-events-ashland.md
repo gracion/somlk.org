@@ -2,6 +2,8 @@
 title: "Ashland MLK Celebration"
 layout: single
 permalink: /past-events/ashland/
+redirect_from:
+  - /ashland.html
 ---
 
 For the 2021 and 2022 video events, see the [Videos page]({{ site.baseurl }}/videos/).
@@ -25,7 +27,7 @@ The celebration is FREE and open to the public. Non-Perishable Food Donations fo
 > him [or them] it is right…"
 > — Dr. Martin Luther King, Jr.
 >
-> [Read the full quotation in context →]({{ site.baseurl }}/quote/)
+> [Read the full quotation in context →]({{ site.baseurl }}/quote-priorities/)
 
 [Facebook](https://www.facebook.com/Ashland-Martin-Luther-King-Jr-Holiday-Celebration-139540922765640/){:target="_blank"} &bull;
 [Twitter/X](https://twitter.com/AshlandMLKDay){:target="_blank"} &bull;

@@ -2,6 +2,8 @@
 title: "A Proper Sense of Priorities"
 layout: single
 permalink: /quote-priorities/
+redirect_from:
+  - /quote.html
 ---
 
 *A selected quotation of Dr. Martin Luther King, Jr. — February 6, 1968*

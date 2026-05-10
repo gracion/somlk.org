@@ -2,6 +2,8 @@
 title: "Grants Pass MLK Celebration"
 layout: single
 permalink: /grants-pass/
+redirect_from:
+  - /grants-pass.html
 ---
 
 ## Martin Luther King Jr. Day Events in Grants Pass
