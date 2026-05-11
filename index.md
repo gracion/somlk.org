@@ -16,7 +16,7 @@ MLK Day next year is Monday, January 18, 2027
 
 *Watch our entire 2026 celebration above. Main program starts at 50:54*
 
-[![Grants Pass MLK 2026 event flyer]({{ site.baseurl }}/assets/images/2026-mlk-day-poster-18x24-ac_orig.jpeg)]({{ site.baseurl }}/assets/images/2026-mlk-day-poster-18x24-ac_orig.jpeg)
+[![Ashland MLK 2026 event flyer]({{ site.baseurl }}/assets/images/2026-mlk-day-poster-18x24-ac_orig.jpeg)]({{ site.baseurl }}/assets/images/2026-mlk-day-poster-18x24-ac_orig.jpeg)
 
 **Theme:** "The time is always right to do right. We are all tied together in a single Garment of Destiny caught in an inescapable network of Mutuality."
 
