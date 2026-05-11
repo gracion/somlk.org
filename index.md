@@ -38,21 +38,21 @@ After the celebration, march to downtown Plaza for the playing of Dr. King's "I 
 
 ## Sponsors
 
-<div style="columns: 2; column-gap: 2em; margin-bottom: 1em;">
-<ul>
-<li><a href="https://ashlandchamber.com" target="_blank">Ashland Chamber of Commerce</a></li>
-<li><a href="https://ashlandfood.coop" target="_blank">Ashland Food Coop</a></li>
-<li><a href="https://blacksouthernoregonalliance.com" target="_blank">Black Southern Oregon Alliance</a></li>
-<li><a href="https://ashlandoregon.gov" target="_blank">City of Ashland</a></li>
-<li><a href="https://jcls.org" target="_blank">Jackson County Library System</a></li>
-<li><a href="https://osfashland.org" target="_blank">Oregon Shakespeare Festival</a></li>
-<li><a href="https://peacehouse.net" target="_blank">Peace House</a></li>
-<li><a href="https://rvml.org" target="_blank">Rogue Valley Community Resource Center</a></li>
-<li><a href="https://sopride.org" target="_blank">SOPride</a></li>
-<li><a href="https://sou.edu" target="_blank">Southern Oregon University</a></li>
-<li><a href="https://tcchevy.com" target="_blank">TC Chevy</a></li>
-<li><a href="https://twosisterswriting.com" target="_blank">Two Sisters Writing and Publishing</a></li>
-</ul>
+<div style="columns: 2; column-gap: 2em; margin-bottom: 1em;" markdown="1">
+
+- [Ashland Chamber of Commerce](https://ashlandchamber.com){:target="_blank"}
+- [Ashland Food Coop](https://ashlandfood.coop){:target="_blank"}
+- [Black Southern Oregon Alliance](https://blacksouthernoregonalliance.com){:target="_blank"}
+- [City of Ashland](https://ashlandoregon.gov){:target="_blank"}
+- [Jackson County Library System](https://jcls.org){:target="_blank"}
+- [Oregon Shakespeare Festival](https://osfashland.org){:target="_blank"}
+- [Peace House](https://peacehouse.net){:target="_blank"}
+- [Rogue Valley Community Resource Center](https://rvml.org){:target="_blank"}
+- [SOPride](https://sopride.org){:target="_blank"}
+- [Southern Oregon University](https://sou.edu){:target="_blank"}
+- [TC Chevy](https://tcchevy.com){:target="_blank"}
+- [Two Sisters Writing and Publishing](https://twosisterswriting.com){:target="_blank"}
+
 </div>
 
 **In partnership with:**
